@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-groq
+langgraph
+chromadb
+sentence-transformers
+gitpython
+tree-sitter
+streamlit
+python-dotenv
+ragas
+tiktoken
